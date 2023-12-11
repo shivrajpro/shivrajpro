@@ -2,7 +2,7 @@
 <h3 align="center">A passionate frontend developer from India</h3>
 
 <p align="left">
-  <img src="https://raw.githubusercontent.com/shivrajpro/shivrajpro/main/ui-dev-gif.gif" alt="shivrajpro" />
+  <img src="https://globaleducation.s3.ap-south-1.amazonaws.com/globaledu/gif/front-end-development.gif" alt="shivrajpro" />
 </p>
 
 - 👨‍💻 All of my projects are available at
