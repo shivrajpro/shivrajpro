@@ -18,6 +18,11 @@
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
       alt="shivrajhulbatte" height="30" width="40" /></a>
 </p>
+<p align="left">
+  <a href="https://www.instagram.com/shivraj_7807" target="blank"><img align="center"
+      src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/100px-Instagram_icon.png?20200512141346"
+      alt="shivrajhulbatte" height="30" width="40" /></a>
+</p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
